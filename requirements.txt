@@ -1,3 +1,4 @@
+pymysql
 appdirs==1.4.3
 cloudpickle==0.2.2
 funcy==1.7.4
